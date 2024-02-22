@@ -1,0 +1,8 @@
+path: /content/gdrive/MyDrive/YOLOv8 Projects/Self Driving Car Project/Traffic Light Detection/data/dataset
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 3
+names: ['green', 'red', 'yellow']
