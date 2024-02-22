@@ -1,0 +1,8 @@
+path: /content/gdrive/MyDrive/YOLOv8 Projects/Self Driving Car Project/Road Segmentation/data
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 1
+names: ['road']
