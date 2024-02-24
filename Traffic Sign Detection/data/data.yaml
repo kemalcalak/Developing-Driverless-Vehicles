@@ -1,0 +1,8 @@
+path: /content/gdrive/MyDrive/YOLOv8 Projects/Self Driving Car Project/Traffic Sign Detection/data
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 37
+names: ['Bridge Ahead', 'Cross Roads', 'Give Way', 'Left bend', 'No Horns', 'No Mobile Allowed', 'No Overtaking', 'No Parking', 'No U-Turn', 'No left turn', 'No right turn', 'Parking', 'Pedestrians', 'Railway Crossing', 'Right bend', 'Road Divides', 'Roundabout Ahead', 'Sharp Right Turn', 'Slow', 'Speed Breaker Ahead', 'Speed Limit (20 kmph)', 'Speed Limit (25 kmph)', 'Speed Limit (60 kmph)', 'Speed Limit (65 kmph)', 'Speed Limit (70 kmph)', 'Speed Limit (80 kmph)', 'Speed Limit -20 kmph-', 'Speed Limit -25 kmph-', 'Speed Limit -60 kmph-', 'Speed Limit -65 kmph-', 'Speed Limit -70 kmph-', 'Speed Limit -80 kmph-', 'Steep Descent', 'Stop 2', 'Stop', 'U-Turn', 'Zigzag Road Ahead']
